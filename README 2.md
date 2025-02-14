@@ -4,30 +4,18 @@ Implementation of Simplex Tableau algorithm in C++, for the  course CSC301 2024-
 
 ## Details
 
-- **NAME**: ADAMU MUS'AB
-- **MATRIC NO**: U22CS1008
+- **NAME**: Mohammed Nasir Ovyeh
+- **MATRIC NO**: U22CS1086
 - **DEPARTMENT**: COMPUTER SCIENCE
-- **GROUP**: GROUP 3 (THREE)
-- **FACULTY**: FACULTY OF COMPUTING
+- **GROUP**: GROUP 2
+- **LEVEL**: 300L
+  
 
 # Simplex Algorithm in C++
 
 This C++ program implements the **Simplex Algorithm**, a widely-used optimization method for solving linear programming problems. The algorithm finds the optimal solution for a linear programming problem by moving along the edges of the feasible region, improving the objective function at each step until an optimal solution is reached.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Description](#description)
-- [How it Works](#how-it-works)
-- [Usage](#usage)
-- [Example](#example)
-- [Functions](#functions)
-  - [Constructor](#constructor)
-  - [printTableau()](#printtableau)
-  - [isOptimal()](#isoptimal)
-  - [pivot()](#pivot)
-  - [solve()](#solve)
-- [Dependencies](#dependencies)
-- [License](#license)
+
 
 ## Introduction
 
@@ -135,7 +123,6 @@ Solves the linear programming problem by iteratively performing pivot operations
 
 C++11 or higher for the use of vector and iostream libraries.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
